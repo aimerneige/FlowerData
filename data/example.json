@@ -15,11 +15,33 @@
   "species": "种",
   "introduce": "介绍",
   "geographical": "地理分布",
-  "characteristics": "形态特征",
+  "characteristics": {
+    "_": "形态特征",
+    "branch": "枝",
+    "leaf": "叶",
+    "flower": "花",
+    "fruit": "果"
+  },
   "growth_habit": "生长习性",
-  "variety": "品种分类",
-  "reproduction": "繁殖方法",
-  "cultivate": "栽培技术",
+  "variety": {
+    "_": "品种分类",
+    "explain": "解释",
+    "detail": "细节"
+  },
+  "reproduction": {
+    "_": "繁殖方法",
+    "introduce": "介绍",
+    "graft": "嫁接",
+    "sow": "播种",
+    "cuttage": "扦插"
+  },
+  "cultivate": {
+    "_": "栽培技术",
+    "grow": "栽种",
+    "watering": "浇水",
+    "trim": "修剪",
+    "fertilization": "施肥"
+  },
   "cultivation": "养殖方法",
   "disease": "病虫害防治",
   "value": "主要价值",
