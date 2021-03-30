@@ -32,14 +32,16 @@
     "introduce": "介绍",
     "graft": "嫁接",
     "sow": "播种",
-    "cuttage": "扦插"
+    "cuttage": "扦插",
+    "division": "分株"
   },
   "cultivate": {
     "_": "栽培技术",
     "grow": "栽种",
     "watering": "浇水",
     "trim": "修剪",
-    "fertilization": "施肥"
+    "fertilization": "施肥",
+    "light": "光照"
   },
   "cultivation": "养殖方法",
   "disease": "病虫害防治",
