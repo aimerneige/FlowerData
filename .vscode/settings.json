@@ -3,6 +3,11 @@
   "cSpell.ignoreWords": [
     "cuttage",
     "oblata",
-    "syringa"
-  ]
+    "orychophragmus",
+    "syringa",
+    "violaceus"
+  ],
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
