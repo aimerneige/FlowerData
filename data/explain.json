@@ -17,6 +17,7 @@
   "characteristics": {
     "_": "形态特征",
     "branch": "枝",
+    "stem": "茎",
     "leaf": "叶",
     "flower": "花",
     "fruit": "果"
@@ -41,7 +42,8 @@
     "watering": "浇水",
     "trim": "修剪",
     "fertilization": "施肥",
-    "light": "光照"
+    "light": "光照",
+    "weeds": "杂草"
   },
   "cultivation": "养殖方法",
   "disease": "病虫害防治",
