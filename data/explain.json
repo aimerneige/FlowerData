@@ -9,6 +9,7 @@
   "order": "目",
   "suborder": "亚目",
   "family": "科",
+  "subfamily": "亚科",
   "genus": "属",
   "subgenus": "亚属",
   "species": "种",
@@ -20,7 +21,8 @@
     "stem": "茎",
     "leaf": "叶",
     "flower": "花",
-    "fruit": "果"
+    "fruit": "果",
+    "root": "根"
   },
   "growth_habit": "生长习性",
   "variety": {
